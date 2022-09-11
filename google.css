@@ -1,0 +1,64 @@
+.logo {
+    position: relative;
+    left: 40%;
+    top: 100px;
+    margin-bottom: 5%;
+     }
+   .grey{
+    background: rgb(224, 217, 217);
+    height: 90px;
+    margin-right: 5px;
+    margin-left: 9px;
+    margin-top: 1%;
+   }
+   .grey-head{
+    position: relative;
+    left: 42%;
+   }
+     .white-box{
+    background: rgb(255, 255, 255);
+    width: 450px;
+    height: 25px;
+    position: relative;
+    left: 38%;
+    top: -20%;
+    border: 1px solid gray;
+}  
+.buton {
+    position: relative;
+    margin-top: -30px;
+    left: 790px;
+}
+.birinci{
+    background: #7ee5da;
+    height: 80px;
+    width: 560px;
+    margin-top: 1%;
+    text-align: center;
+    
+}
+
+.ikinci{
+background: #70ccc2;
+height: 80px;
+width: 530px;
+float: left;
+margin-left: 34%;
+margin-top: -80px;
+text-align: center;
+}
+
+.ücüncü{
+    background: #62b3aa;
+    height: 80 px;
+    width: 565px;
+    float: right;
+    line-height: normal;
+    margin-top: -4.7%;
+    text-align: center;
+
+}
+
+.cop{
+    text-align: center;
+}
